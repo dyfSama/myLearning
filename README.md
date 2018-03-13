@@ -1,2 +1,0 @@
-# myLearning
-learning myself
